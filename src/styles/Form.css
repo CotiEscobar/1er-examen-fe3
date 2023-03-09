@@ -1,0 +1,26 @@
+.form-container {
+    background-color: pink;
+    padding: 20px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+}
+.input {
+    margin-bottom: 10px;
+    height: 30px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sbmt-button {
+    margin: 10px auto;
+    width: 200px;
+}
+.card-container {
+    margin-top: 20px;
+    border-radius: 30px;
+    border: 1px pink solid;
+}
+.error-msg {
+    color: red
+}
